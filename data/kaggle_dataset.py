@@ -4,7 +4,7 @@ import kaggle
 kaggle.api.authenticate()
 
 # Specify the dataset you want to download
-dataset_name = 'fda/adverse-food-events'
+dataset_name = 'kannanaikkal/food-demand-forecasting '
 
 # Set the path where you want to download and unzip the dataset
 download_path = './data/'
