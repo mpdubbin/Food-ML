@@ -2,10 +2,11 @@
 Simple machine learning program for food
 
 Possible Kaggle datasets:
-1. https://www.kaggle.com/datasets/fda/fda-enforcement-actions ***
-2. https://www.kaggle.com/datasets/fda/adverse-food-events
-3. https://www.kaggle.com/datasets/kannanaikkal/food-demand-forecasting
-4. https://www.kaggle.com/datasets/adityakadiwal/water-potability
+1. https://www.kaggle.com/datasets/fda/fda-enforcement-actions
+    a. Geography-based mapping of locations
+3. https://www.kaggle.com/datasets/fda/adverse-food-events
+4. https://www.kaggle.com/datasets/kannanaikkal/food-demand-forecasting
+5. https://www.kaggle.com/datasets/adityakadiwal/water-potability
 
 
 SciKit-Learn Crash Course
