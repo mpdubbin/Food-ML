@@ -2,7 +2,7 @@
 Simple machine learning program for food
 
 Possible Kaggle datasets:
-1.* https://www.kaggle.com/datasets/fda/fda-enforcement-actions
+1. https://www.kaggle.com/datasets/fda/fda-enforcement-actions ***
 2. https://www.kaggle.com/datasets/fda/adverse-food-events
 3. https://www.kaggle.com/datasets/kannanaikkal/food-demand-forecasting
 4. https://www.kaggle.com/datasets/adityakadiwal/water-potability
