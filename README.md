@@ -14,3 +14,7 @@ Possible Kaggle datasets:
 
 SciKit-Learn Crash Course
 https://www.youtube.com/watch?v=0B5eIE_1vpU
+
+venv set-up
+https://sparkbyexamples.com/python/python-activate-virtual-environment-venv/
+
